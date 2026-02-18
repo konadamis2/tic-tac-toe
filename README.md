@@ -1,4 +1,4 @@
 # tic-tac-toe
 An implementation of the famous tic-tac-toe game
 
-<img width="960" height="854" alt="Tic_tac_toe svg" src="https://github.com/user-attachments/assets/2bb34e6f-f536-475c-bb37-77c930c09d04" />
+<img width="640" height="569" alt="Tic_tac_toe svg" src="https://github.com/user-attachments/assets/53e37074-a87e-4ad8-bd2a-46e5f02f7cfa" />
