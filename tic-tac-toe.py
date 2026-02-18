@@ -165,4 +165,4 @@ if (arr[0] == "X" and arr[1] == "X" and arr[2] == "X") or (arr[3] == "X" and arr
 
 else: 
 	
-	print("Tie)
+	print("Tie")
