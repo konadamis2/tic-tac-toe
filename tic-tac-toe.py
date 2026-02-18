@@ -163,29 +163,6 @@ if (arr[0] == "X" and arr[1] == "X" and arr[2] == "X") or (arr[3] == "X" and arr
 	print("Victory")
 	exit()
 
-else:
-
-	pass
-
-while True:
-
-	b5 = randint(0,8)
-
-	if flags[b5] == False:
-		arr[b5] = "O"
-		flags[b5] = True
-		break
-
-	else:
-		print("rerun")
-
-print(arr)
-
-if (arr[0] == "O" and arr[1] == "O" and arr[2] == "O") or (arr[3] == "O" and arr[4] == "O" and arr[5] == "O") or (arr[6] == "O" and arr[7] == "O" and arr[8] == "O") or (arr[0] == "O" and arr[3] == "O" and arr[6] == "O") or (arr[1] == "O" and arr[4] == "O" and arr[7] == "O") or (arr[2] == "O" and arr[5] == "O" and arr[8] == "O") or (arr[0] == "O" and arr[4] == "O" and arr[8] == "O") or (arr[2] == "O" and arr[4] == "O" and arr[6] == "O"):
-
-	print("Defeat")
-	exit()
-
-else:
-
-	print("Tie")
+else: 
+	
+	print("Tie)
